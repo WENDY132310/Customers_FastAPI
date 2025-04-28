@@ -1,0 +1,30 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de configuración local
+*.env
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cachés de pytest
+.pytest_cache/
+
+# Archivos de bases de datos locales
+*.sqlite3
+
+# Archivos de logs
+*.log
+
+# Archivos de compilación
+*.pyc
+*.pyd
+*.pyo
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
