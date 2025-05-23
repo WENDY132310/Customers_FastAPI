@@ -32,7 +32,7 @@ Este es un proyecto desarrollado con **FastAPI** para la gestión de clientes. I
 
 1. Ejecuta el servidor FastAPI:
    ```bash
-   uvicorn main:app --reload
+   uvicorn app.main:app --reload
    ```
 
 2. Abre tu navegador y ve a la documentación interactiva de la API:
